@@ -1,0 +1,12 @@
+.postsPage {
+   width: 800px;
+   padding: 1rem;
+}
+.loaderContainer {
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+}
+.createPostWrapper {
+   padding: 1rem 0rem;
+}
